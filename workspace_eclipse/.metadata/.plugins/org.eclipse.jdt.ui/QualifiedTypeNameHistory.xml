@@ -5,4 +5,6 @@
     <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
     <fullyQualifiedTypeName name="strategy.comparator.ComparadorPorNome"/>
     <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="strategy.frete.Fretavel"/>
+    <fullyQualifiedTypeName name="strategy.frete.ServicoFreteDHL"/>
 </qualifiedTypeNameHistroy>
