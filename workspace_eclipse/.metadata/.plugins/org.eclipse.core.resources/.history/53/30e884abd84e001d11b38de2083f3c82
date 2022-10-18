@@ -58,6 +58,7 @@ class CalculadoraFreteTest {
 		
 	}
 	
+	
 	/* Não faz mais sentido
 	@Test
 	void deveLancarExceptionParaServicoDesconhecido() {

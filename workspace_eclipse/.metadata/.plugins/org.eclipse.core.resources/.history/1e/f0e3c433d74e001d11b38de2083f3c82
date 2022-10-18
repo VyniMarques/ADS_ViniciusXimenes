@@ -17,6 +17,7 @@ class CalculadoraFreteTest {
 		
 		assertEquals(valorEsperado, valorRetornado);
 		
+		
 	}
 
 	@Test
@@ -46,22 +47,9 @@ class CalculadoraFreteTest {
 	}
 	
 	@Test
-	void deveCalcularFreteParaFedEx() {
-		CalculadoraFrete calculadora = new CalculadoraFrete();
-		
-		Fretavel servicoFreteFedEx = new ServicoFreteFedEx();
-		
-		double valorEsperado = 45.00;
-		double valorRetornado = calculadora.calcular(servicoFreteFedEx, 22.0);
-		
-		assertEquals(valorEsperado, valorRetornado);
-		
-	}
-	
-	/* Não faz mais sentido
-	@Test
 	void deveLancarExceptionParaServicoDesconhecido() {
 		assertNotEquals(servico, "sedex");
 	}
-	*/
+	
+	
 }
