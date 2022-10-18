@@ -1,0 +1,20 @@
+INDEX VERSION 1.131+C:\Users\vinic\LABS_ADS\workspace_eclipse\.metadata\.plugins\org.eclipse.jdt.core
+514052293.index
+456250080.index
+1861916429.index
+3815641392.index
+3995392290.index
+1842054134.index
+1242999334.index
+1806485160.index
+2298053682.index
+1865797976.index
+961098685.index
+801368588.index
+2690232650.index
+1738944792.index
+1713676934.index
+3940425007.index
+379272159.index
+4069003878.index
+3411855731.index

@@ -1,0 +1,5 @@
+package singleton.logManager;
+
+public class LogManager2 {
+
+}

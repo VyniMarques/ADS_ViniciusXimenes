@@ -1,0 +1,14 @@
+package singleton.logManager;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class LogManager2Test {
+
+	@Test
+	void test() {
+		fail("Not yet implemented");
+	}
+
+}
