@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;state.artigo.Artigo&apos; to &apos;ZzzArtigo&apos;&#x0D;&#x0A;- Original project: &apos;ADS_DesingPatterns&apos;&#x0D;&#x0A;- Original element: &apos;state.artigo.Artigo&apos;&#x0D;&#x0A;- Renamed element: &apos;state.artigo.ZzzArtigo&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Artigo&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;state.artigo{Artigo.java[Artigo" matchStrategy="1" name="ZzzArtigo" qualified="false" references="true" similarDeclarations="false" stamp="1666696718422" textual="false" version="1.0"/>
+</session>
