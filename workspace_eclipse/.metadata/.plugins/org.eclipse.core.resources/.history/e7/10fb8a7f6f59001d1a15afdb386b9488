@@ -1,0 +1,25 @@
+package templatemethod.relatorio.intro;
+
+import java.util.List;
+
+public class GeradorRelatorioVendasMensais {
+
+	private String getCabecalho() {
+		String cabecalho = "Empresa My" + '\n'
+					     + "----------";
+		return cabecalho;
+	}
+	
+	private String getRodape() {
+		String rodape = "-------------------------------------------" + '\n'
+					  + "* Propriedade particular - Uso confidencial";
+		return rodape;
+	}
+	
+	private List<String> getConteudo(Integer ano, Integer mes){
+		List<String> conteudo = ServicoDeRelatorio.getInstance().getVendasMensal(ano, mes);
+		return conteudo;
+	}
+	
+	
+}

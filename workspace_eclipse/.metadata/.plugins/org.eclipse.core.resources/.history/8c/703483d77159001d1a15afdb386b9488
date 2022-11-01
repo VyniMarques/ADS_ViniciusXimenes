@@ -1,0 +1,5 @@
+package templatemethod.relatorio.refatorado;
+
+public class GeradorRelatorioVendasMensais {
+
+}

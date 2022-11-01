@@ -1,0 +1,14 @@
+package templatemethod.relatorio.intro;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class GeradorRelatorioVendasAnuaisTest {
+
+	@Test
+	void test() {
+		fail("Not yet implemented");
+	}
+
+}

@@ -1,0 +1,5 @@
+package templatemethod.relatorio.intro;
+
+public class ServicoDeRelatorio {
+
+}
