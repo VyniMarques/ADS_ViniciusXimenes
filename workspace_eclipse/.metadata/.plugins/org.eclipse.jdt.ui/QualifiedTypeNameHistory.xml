@@ -17,11 +17,14 @@
     <fullyQualifiedTypeName name="templatemethod.relatorio.refatorado.GeradorRelatorioVendasMensais"/>
     <fullyQualifiedTypeName name="templatemethod.relatorio.intro.GeradorRelatorioVendasAnuais"/>
     <fullyQualifiedTypeName name="templatemethod.relatorio.refatorado.GeradorRelatorioVensadsAnuais"/>
-    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
-    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
-    <fullyQualifiedTypeName name="org.springframework.ui.Model"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
     <fullyQualifiedTypeName name="javax.annotation.PostConstruct"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+    <fullyQualifiedTypeName name="br.inatel.labs.labsads.padraomvc.model.ProdutoService"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.ui.Model"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="br.inatel.labs.labsads.padraomvc.model.Produto"/>
 </qualifiedTypeNameHistroy>

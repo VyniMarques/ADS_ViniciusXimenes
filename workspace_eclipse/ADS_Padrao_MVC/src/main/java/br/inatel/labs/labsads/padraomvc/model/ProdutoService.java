@@ -15,8 +15,17 @@ public class ProdutoService {
 	@PostConstruct
 	private void setup() {
 		Produto p1 = new Produto(1L, "Furadeira", 300.00);
-		Produto p2 = new Produto()
+		Produto p2 = new Produto(2L, "Lixadeira", 200.00);
+		Produto p3 = new Produto(3L, "Serra Circular", 500.00);
+		
+		listaDeProdutos.add(p1);
+		listaDeProdutos.add(p2);
+		listaDeProdutos.add(p3);
+		
 	}
 	
+	public List<Produto> findAll(){
+		return listaDeProdutos;
+	}
 	
 }
