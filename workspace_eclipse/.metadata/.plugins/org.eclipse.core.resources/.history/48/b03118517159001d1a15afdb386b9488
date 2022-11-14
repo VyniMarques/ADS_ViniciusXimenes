@@ -1,5 +1,0 @@
-package templatemethod.relatorio.refatorado;
-
-public class GeradorRelatorioTemplate {
-
-}

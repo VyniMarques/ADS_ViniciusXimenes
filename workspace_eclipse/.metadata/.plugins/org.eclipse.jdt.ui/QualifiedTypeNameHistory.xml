@@ -5,12 +5,23 @@
     <fullyQualifiedTypeName name="java.util.Comparator"/>
     <fullyQualifiedTypeName name="strategy.frete.Fretavel"/>
     <fullyQualifiedTypeName name="strategy.frete.ServicoFreteDHL"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
     <fullyQualifiedTypeName name="javax.management.RuntimeErrorException"/>
     <fullyQualifiedTypeName name="state.artigo.GerenteDeSeguranca"/>
     <fullyQualifiedTypeName name="state.artigo.Estado"/>
     <fullyQualifiedTypeName name="state.artigo.EstadoRevisando"/>
+    <fullyQualifiedTypeName name="templatemethod.relatorio.intro.GeradorRelatorioVendasMensais"/>
+    <fullyQualifiedTypeName name="templatemethod.relatorio.intro.ServicoDeRelatorio"/>
+    <fullyQualifiedTypeName name="templatemethod.relatorio.refatorado.GeradorRelatorioTemplate"/>
+    <fullyQualifiedTypeName name="templatemethod.relatorio.refatorado.GeradorRelatorioVendasMensais"/>
+    <fullyQualifiedTypeName name="templatemethod.relatorio.intro.GeradorRelatorioVendasAnuais"/>
+    <fullyQualifiedTypeName name="templatemethod.relatorio.refatorado.GeradorRelatorioVensadsAnuais"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.ui.Model"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="javax.annotation.PostConstruct"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
